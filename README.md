@@ -1,2 +1,2 @@
 # timer
-Timer feito com JavaScript.
+Timer feito com JavaScript, para prática do JavaScript.
